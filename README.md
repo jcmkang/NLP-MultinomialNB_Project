@@ -2,22 +2,27 @@
 
 
 ## About
-This project is an extension of another one of my projects I did in my Intro to Data Science class. This project is an example of using Natural Language Processing as it utilizes Mutlinomia Naive Bayes model to predicit the rating of a hotel review by using text tokens. The preliminary dataset is a sample data of Trip Advisor's Hotel reviews and their ratings. The trained model will be used to predict if a new set of reviews are positive or negative. 
+This project is an extension of a project I completed during my Intro to Data Science class. It serves as an example of Natural Language Processing (NLP) implementation, utilizing the Multinomial Naive Bayes model to predict the ratings of hotel reviews based on text tokens. The preliminary dataset consists of a sample of hotel reviews and their corresponding ratings from TripAdvisor. The trained model will be employed to determine whether a new set of reviews is positive or negative.
 
 
 ## Source
- Alam, M. H., Ryu and W.-J., Lee ([source](https://zenodo.org/record/1219899#.Y9Y_N9JBwUE))
+Alam, M. H., Ryu and W.-J., Lee ([source](https://zenodo.org/record/1219899#.Y9Y_N9JBwUE))
 
 
 ## About the dataset
-* The dataset is a sample data of hotel reviews from Trip Advisor.
-* It contains 20,491 reviews and their rating.
+* The dataset a sample containing 20,491 hotel reviews from TripAdvisor.
+* Each review is associated with a rating.
 
 
-## Questions to think about
-1. Does the MultinomialNB model work with this text classification problem?
-2. Create and test the model with a new set of reviews.
+## Key Questions
+1. Does the MultinomialNB model effectively address this text classification problem?
+2. How does the model perform when tested with a new set of reviews?
 
 
 ## Code Features
-Jupyter Notebook, Pandas DataFrame, Numpy, Matplotlib, Scikit-learn, Nltk
+* Jupyter Notebook
+* Pandas DataFrame
+* Numpy
+* Matplotlib
+* Scikit-learn
+* NLTK
