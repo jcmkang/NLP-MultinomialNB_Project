@@ -2,7 +2,7 @@
 
 
 ## About
-This is an extension of a project I completed during my Intro to Data Science class. It serves as an example of Natural Language Processing (NLP) implementation, utilizing the Multinomial Naive Bayes model to predict the ratings of hotel reviews based on text tokens. The preliminary dataset consists of a sample of hotel reviews and their corresponding ratings from TripAdvisor. The trained model will be employed to determine whether a new set of reviews is positive or negative.
+This is an extension of a project I completed during my Intro to Data Science class. It serves as an example of Natural Language Processing (NLP) implementation, utilizing the Multinomial Naive Bayes model to predict if the hotel reviews are positive or negative based on text tokens . The preliminary dataset consists of a sample of TripAdvisor's hotel reviews and their corresponding ratings. The trained model will be employed to determine whether a new set of reviews is positive or negative.
 
 
 ## Source
