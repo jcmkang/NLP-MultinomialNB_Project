@@ -13,7 +13,6 @@ Alam, M. H., Ryu and W.-J., Lee ([source](https://zenodo.org/record/1219899#.Y9Y
 * The dataset a sample containing 20,491 hotel reviews from TripAdvisor.
 * Each review is associated with a rating.
 
-
 ## Key Questions
 1. Does the MultinomialNB model effectively address this text classification problem?
 2. How does the model perform when tested with a new set of reviews?
